@@ -2,7 +2,8 @@
         {
             "title":"Webapp",
             "disc":"Web app challenge", 
-            "image":"https://freesvg.org/img/riggedanimation-character-8.png"
+            "image":"https://freesvg.org/img/riggedanimation-character-8.png",
+            "link":"https://google.com"
         },
         {
             "title":"Fighter",
