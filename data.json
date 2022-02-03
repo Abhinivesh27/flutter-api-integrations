@@ -1,7 +1,7 @@
 [       
-        {title:"Webapp",disc:"Web app challenge", image:"https://freesvg.org/img/riggedanimation-character-8.png",link: "https://google.com"},
-        {title:"Fighter",disc:"Iot app challenge Easy", image:"https://freesvg.org/img/1338526046.png", link: "https://google.com"},
-        {title:"Controller",disc:"Operational tech", image:"https://freesvg.org/img/xox-Watia-girl.png", link: "https://google.com"},
-        {title:"Andro-war",disc:"Mobile app challenge", image:"https://freesvg.org/img/BeautyNo23.png", link: "https://nmap.org"}
+        {title:"Webapp",disc:"Web app challenge", image:"https://freesvg.org/img/riggedanimation-character-8.png",link:"https://google.com"},
+        {title:"Fighter",disc:"Iot app challenge Easy", image:"https://freesvg.org/img/1338526046.png", link:"https://google.com"},
+        {title:"Controller",disc:"Operational tech", image:"https://freesvg.org/img/xox-Watia-girl.png", link:"https://google.com"},
+        {title:"Andro-war",disc:"Mobile app challenge", image:"https://freesvg.org/img/BeautyNo23.png", link:"https://nmap.org"}
 
 ]
